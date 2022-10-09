@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.dbb09d45.css",
-    "main.js": "./static/js/main.c76b839c.js",
-    "static/js/787.92bc631d.chunk.js": "./static/js/787.92bc631d.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "./static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "./static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "./static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "./static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "./static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "./index.html",
-    "main.dbb09d45.css.map": "./static/css/main.dbb09d45.css.map",
-    "main.c76b839c.js.map": "./static/js/main.c76b839c.js.map",
-    "787.92bc631d.chunk.js.map": "./static/js/787.92bc631d.chunk.js.map"
+    "main.css": "/NourEldinMahmoudAbdelkarim/ITI/static/css/main.f4b470d0.css",
+    "main.js": "/NourEldinMahmoudAbdelkarim/ITI/static/js/main.9311a667.js",
+    "static/js/787.92bc631d.chunk.js": "/NourEldinMahmoudAbdelkarim/ITI/static/js/787.92bc631d.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/NourEldinMahmoudAbdelkarim/ITI/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/NourEldinMahmoudAbdelkarim/ITI/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/NourEldinMahmoudAbdelkarim/ITI/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/NourEldinMahmoudAbdelkarim/ITI/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/NourEldinMahmoudAbdelkarim/ITI/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/NourEldinMahmoudAbdelkarim/ITI/index.html",
+    "main.f4b470d0.css.map": "/NourEldinMahmoudAbdelkarim/ITI/static/css/main.f4b470d0.css.map",
+    "main.9311a667.js.map": "/NourEldinMahmoudAbdelkarim/ITI/static/js/main.9311a667.js.map",
+    "787.92bc631d.chunk.js.map": "/NourEldinMahmoudAbdelkarim/ITI/static/js/787.92bc631d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbb09d45.css",
-    "static/js/main.c76b839c.js"
+    "static/css/main.f4b470d0.css",
+    "static/js/main.9311a667.js"
   ]
 }
