@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NourEldinMahmoudAbdelkarim/ITI/static/css/main.f4b470d0.css",
-    "main.js": "/NourEldinMahmoudAbdelkarim/ITI/static/js/main.9311a667.js",
+    "main.js": "/NourEldinMahmoudAbdelkarim/ITI/static/js/main.fb66974a.js",
     "static/js/787.92bc631d.chunk.js": "/NourEldinMahmoudAbdelkarim/ITI/static/js/787.92bc631d.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/NourEldinMahmoudAbdelkarim/ITI/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/NourEldinMahmoudAbdelkarim/ITI/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -10,11 +10,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/NourEldinMahmoudAbdelkarim/ITI/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/NourEldinMahmoudAbdelkarim/ITI/index.html",
     "main.f4b470d0.css.map": "/NourEldinMahmoudAbdelkarim/ITI/static/css/main.f4b470d0.css.map",
-    "main.9311a667.js.map": "/NourEldinMahmoudAbdelkarim/ITI/static/js/main.9311a667.js.map",
+    "main.fb66974a.js.map": "/NourEldinMahmoudAbdelkarim/ITI/static/js/main.fb66974a.js.map",
     "787.92bc631d.chunk.js.map": "/NourEldinMahmoudAbdelkarim/ITI/static/js/787.92bc631d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4b470d0.css",
-    "static/js/main.9311a667.js"
+    "static/js/main.fb66974a.js"
   ]
 }
